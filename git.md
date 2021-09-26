@@ -35,15 +35,32 @@ _footer: 'Photo by Clyde RS on Unsplash'
 ## 作業中のブランチに差分を取り込む
 
 オリジンを更新する
-```
+
+```command
 git fetch origin
 ```
 
 作業中ブランチへマスターを取り込む
-```
+
+```cmd
 git merge --no-ff origin/master
 ```
 
+---
+
+## コミットハッシュを取得
+
+長いコミットハッシュを取得する場合
+
+```command
+git rev-parse HEAD
+```
+
+短いコミットハッシュを取得する場合
+
+```command
+git rev-parse --short HEAD
+```
 
 ---
 
