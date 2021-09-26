@@ -13,7 +13,7 @@ marp: true
 
 PDF化しようとした際に以下のエラーが出てPDF化出来ない場合の対処法。
 
-![](img/marp01.png)
+![エラーメッセージ](img/marp01.png)
 
 ---
 
