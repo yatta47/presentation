@@ -24,6 +24,10 @@ style: |
 
 # Gitコマンドメモ
 
+#### 2022/12/05
+
+yatta47
+
 <!--
 _color: white
 _footer: 'Photo by Clyde RS on Unsplash'
