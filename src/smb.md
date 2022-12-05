@@ -22,7 +22,7 @@ style: |
 ---
 <!-- _class: title -->
 
-# LinuxにSMBサーバに接続する
+# LinuxからSMBサーバに接続する
 
 <!--
 _color: white

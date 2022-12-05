@@ -2,6 +2,13 @@
 
 marpで作ったプレゼン資料を置く場所。
 
+## pdfに変換
+
+```
+marp --pdf XXXXXXXX.md
+marp XXXXX.md -o yyyyy.md
+```
+
 ## 参考サイト
 
 Marp(Marpit) - Qiita  
