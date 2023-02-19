@@ -1,6 +1,6 @@
 # presentation
 
-marpで作ったプレゼン資料を置く場所。
+marpで作ったプレゼン資料を置く場所
 
 ## pdfに変換
 
